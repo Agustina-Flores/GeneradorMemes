@@ -10,5 +10,5 @@ Podemos elegir una imagen para realizar el meme y escribir un texto superior e i
 
 🛠️ Stack:
 
-React.js: HTML,TailwindCss
+React, HTML,TailwindCss
  
